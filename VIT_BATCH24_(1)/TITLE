@@ -1,0 +1,24 @@
+Microcontroller based Industrial Applications 
+
+Title: Drowsiness Detection System
+
+Scope of Project
+
+Driver Drowsiness Detection (DDD) represents a pivotal advancement in road safety, leveraging cutting-edge technologies to prevent accidents caused by fatigued drivers. With the integration of revolutionary tech like AI-driven image processing, infrared sensors, and machine learning algorithms, DDD systems can now accurately monitor driver behavior and physiological indicators in real-time. This extends beyond traditional methods, allowing for early detection of drowsiness through eye movement analysis, facial expressions, and even vital signs. The scope of DDD extends to various industries beyond automobiles, encompassing aviation, heavy machinery operation, and healthcare. It aligns seamlessly with the burgeoning autonomous vehicle industry, providing an additional layer of safety. Moreover, DDD systems have the potential to integrate with smart transportation infrastructure, creating a comprehensive network for enhanced road safety. As drowsy driving remains a significant global concern, the scope for DDD is boundless, offering a transformative solution to mitigate accidents, save lives, and shape the future of transportation.
+
+Required Components:
+1.Arduino Nano
+2.LCD 16*2
+3.Potentiometer
+4.Resistors
+5.Bread Board
+6.Piezo
+7.PIR Sensor
+8.Positional Micro Servo
+9.Red LED
+10.Arduino IDE
+11.Tinker CAD
+ 
+
+
+
